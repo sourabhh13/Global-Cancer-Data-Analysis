@@ -1,5 +1,4 @@
-# Global Cancer Trends, Outcomes, and Treatment Cost Analysis 
-
+# Global Cancer Data Analysis
 ## Overview
 This project presents an exploratory and statistical analysis of a global cancer patient dataset containing **50,000 records** from **2015 to 2024**. The objective was to examine how **demographic, lifestyle, environmental, and clinical factors** relate to **cancer severity, survival, and treatment cost**.
 
